@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud.189.cn/t/2Aja6fVz2yya
+  ROM_URL: http://222.220.212.2/bigota.d.miui.com/9.5.9/miui_MI6_9.5.9_0c696066a4_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
